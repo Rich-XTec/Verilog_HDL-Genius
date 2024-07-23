@@ -1,0 +1,18 @@
+-- Button Press Synchronizer para keys que são ativas baixas (ou seja, quando pressionadas vao para nivel baixo)
+
+module ButtonSync (
+	
+	KEY0, KEY1, KEY2, KEY3, CLK,
+		BTN0, BTN1, BTN2, BTN3;
+
+);
+
+input wire  KEY0, KEY1, KEY2, KEY3, CLK;
+output wire	BTN0, BTN1, BTN2, BTN3;
+		
+		
+		
+		
+		
+		
+endmodule

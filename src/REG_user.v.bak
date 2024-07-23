@@ -1,0 +1,27 @@
+module registrador 
+#(parameter N = 4)
+(
+	d_i,
+	clk_i,
+	rstn_i,
+	en_i,
+	q_o
+);
+
+input wire [N-1:0] d_i;
+input wire 	clk_i, rstn_i, en_i; 
+
+output reg [N-1:0] q_o;
+
+always@(posedge clk_i or negedge rstn_i)
+begin
+	if (rstn_i == 1'b0)
+		q_o <= 4'b0000;
+	else
+		if (en_i == 1'b1)
+			q_o <= d_i;
+		else 
+		   q_o <= q_o;
+end
+
+endmodule

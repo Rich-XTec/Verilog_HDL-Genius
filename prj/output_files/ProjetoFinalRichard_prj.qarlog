@@ -1,0 +1,39 @@
+Quartus II Archive log --	C:/Users/Jacare/Documents/HDL/Projeto Final/output_files/ProjetoFinalRichard_prj.qarlog
+
+Archive:	C:/Users/Jacare/Documents/HDL/Projeto Final/output_files/ProjetoFinalRichard_prj.qar
+Date:		Tue Jul 02 14:00:34 2024
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Jacare/Documents/HDL/Projeto Final/ProjetoFinal.qsf
+C:/Users/Jacare/Documents/HDL/Projeto Final/ProjetoFinal_prj.qpf
+C:/Users/Jacare/Documents/HDL/Projeto Final/incremental_db/compiled_partitions/ProjetoFinal.db_info
+C:/Users/Jacare/Documents/HDL/Projeto Final/output_files/stp1.stp
+C:/Users/Jacare/Documents/HDL/Projeto Final/output_files/stp1_auto_stripped.stp
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/COMP.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/Controle.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_fpga.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_round.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_time.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_user.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/Datapath.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/FSM_clock.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/Logica.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_fpga.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_setup.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_user.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ1.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ2.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ3.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ4.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/dec7seg.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux2x1.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_1b.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_4b.v
+C:/Users/Jacare/Documents/HDL/Projeto Final/src/top.v
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 28 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

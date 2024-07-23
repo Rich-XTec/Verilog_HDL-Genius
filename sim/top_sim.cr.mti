@@ -1,0 +1,170 @@
+{C:/Users/Jacare/Documents/HDL/Projeto Final/src/Datapath.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/top_tb.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/top_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ButtonSync
+
+Top level modules:
+	ButtonSync
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_1b.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_1b.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4x1_1b
+
+Top level modules:
+	mux4x1_1b
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ1.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SEQ1
+
+Top level modules:
+	SEQ1
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ2.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SEQ2
+
+Top level modules:
+	SEQ2
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_fpga.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_fpga.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module REG_fpga
+
+Top level modules:
+	REG_fpga
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ3.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ3.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SEQ3
+
+Top level modules:
+	SEQ3
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ4.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SEQ4
+
+Top level modules:
+	SEQ4
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux2x1.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux2x1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2x1
+
+Top level modules:
+	mux2x1
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Controle.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Controle.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controle
+
+Top level modules:
+	Controle
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_user.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_user.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_user
+
+Top level modules:
+	Counter_user
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_round.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_round.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_round
+
+Top level modules:
+	Counter_round
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/COMP.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/COMP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module COMP
+
+Top level modules:
+	COMP
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Logica.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Logica.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Logica
+
+Top level modules:
+	Logica
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/FSM_clock.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/FSM_clock.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM_clock
+
+Top level modules:
+	FSM_clock
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/dec7seg.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/dec7seg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dec7seg
+
+Top level modules:
+	dec7seg
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/top.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/top.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_4b.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_4b.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4x1_4b
+
+Top level modules:
+	mux4x1_4b
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_user.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_user.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module REG_user
+
+Top level modules:
+	REG_user
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_fpga.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_fpga.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_fpga
+
+Top level modules:
+	Counter_fpga
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ButtonSync
+-- Compiling architecture ButtonSyncImpl of ButtonSync
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_setup.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_setup.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module REG_setup
+
+Top level modules:
+	REG_setup
+
+} {} {}} {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_time.v} {1 {vlog -work work {C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_time.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_time
+
+Top level modules:
+	Counter_time
+
+} {} {}}

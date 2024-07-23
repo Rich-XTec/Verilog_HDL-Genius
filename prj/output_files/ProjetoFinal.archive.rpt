@@ -1,0 +1,100 @@
+Archive Project report for ProjetoFinal
+Tue Jul 02 14:00:34 2024
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Tue Jul 02 14:00:34 2024 ;
+; Revision Name          ; ProjetoFinal                          ;
+; Top-level Entity Name  ; top                                   ;
+; Family                 ; Cyclone III                           ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/Jacare/Documents/HDL/Projeto Final/output_files/ProjetoFinalRichard_prj.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'ProjetoFinal.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.0sp1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4473 megabytes
+    Info: Processing ended: Tue Jul 02 14:00:34 2024
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:03
+
+
++---------------------------------------------------------------------------------+
+; Files Archived                                                                  ;
++---------------------------------------------------------------------------------+
+; File Name                                                                       ;
++---------------------------------------------------------------------------------+
+; c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf                         ;
+; C:/Users/Jacare/Documents/HDL/Projeto Final/output_files/stp1_auto_stripped.stp ;
+; incremental_db/compiled_partitions/ProjetoFinal.db_info                         ;
+; output_files/stp1.stp                                                           ;
+; ProjetoFinal.qsf                                                                ;
+; ProjetoFinal_prj.qpf                                                            ;
+; src/ButtonSync.v                                                                ;
+; src/COMP.v                                                                      ;
+; src/Controle.v                                                                  ;
+; src/Counter_fpga.v                                                              ;
+; src/Counter_round.v                                                             ;
+; src/Counter_time.v                                                              ;
+; src/Counter_user.v                                                              ;
+; src/Datapath.v                                                                  ;
+; src/dec7seg.v                                                                   ;
+; src/FSM_clock.v                                                                 ;
+; src/Logica.v                                                                    ;
+; src/mux2x1.v                                                                    ;
+; src/mux4x1_1b.v                                                                 ;
+; src/mux4x1_4b.v                                                                 ;
+; src/REG_fpga.v                                                                  ;
+; src/REG_setup.v                                                                 ;
+; src/REG_user.v                                                                  ;
+; src/SEQ1.v                                                                      ;
+; src/SEQ2.v                                                                      ;
+; src/SEQ3.v                                                                      ;
+; src/SEQ4.v                                                                      ;
+; src/top.v                                                                       ;
++---------------------------------------------------------------------------------+
+
+

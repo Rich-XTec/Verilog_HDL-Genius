@@ -1,0 +1,11 @@
+//Projeto Final Richard Module Controle
+
+module Controle(
+	R1_o, R2_o, E1_o, E2_o, E3_o, E4_o, SEL_o, 
+	SW_i, clk_i, end_FPGA_i, end_User_i, end_time_i, win_i, match_i,
+);
+
+	
+
+
+endmodule

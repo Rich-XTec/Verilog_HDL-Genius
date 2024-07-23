@@ -1,0 +1,494 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+Ebuttonsync
+Z1 w1718975789
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Jacare\Documents\HDL\Projeto Final\sim
+Z5 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.vhd
+Z6 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.vhd
+l0
+L6
+Z7 Vk^Ij?dJE:e>Qc2[Z8M2Wo1
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1719939437.634000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.vhd|
+Z11 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Z14 !s100 0X1WhTh;D4S_>ERFX^Xnd0
+!i10b 1
+Abuttonsyncimpl
+R2
+R3
+Z15 DEx4 work 10 buttonsync 0 22 k^Ij?dJE:e>Qc2[Z8M2Wo1
+l19
+L15
+Z16 V>b4=`37z4QJ9fJ=n4hgk<2
+Z17 !s100 kToYPR7aIF17G;;O3=M8>1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!i10b 1
+vButtonSync
+!i10b 1
+Z18 !s100 9JRa1[kO`CnTIi_kQjO1W0
+Z19 Ib`EO4Nm?c@0zb60PINAke2
+Z20 V=E0QWLD7Q<fz`2dXdUQgd3
+R4
+Z21 w1719924980
+Z22 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.v
+Z23 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.v
+L0 3
+Z24 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1719939441.212000
+!s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.v|
+Z25 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/ButtonSync.v|
+!s101 -O0
+Z26 o-work work -O0
+Z27 n@button@sync
+vCOMP
+Z28 !s100 Yf83Ni0hi`80YOF6PanK=0
+Z29 Id:f^F7Mm5cIlCJdj2R6AK2
+Z30 V@i6Az901:HFIf1ATT6DMj1
+R4
+Z31 w1719578828
+Z32 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/COMP.v
+Z33 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/COMP.v
+L0 4
+R24
+r1
+31
+Z34 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/COMP.v|
+R26
+Z35 n@c@o@m@p
+Z36 !s108 1719939438.618000
+Z37 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/COMP.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControle
+Z38 !s100 Wf5M0ooKEeo9PWgBmbdgR3
+Z39 IzE5h7Kl6W1[_47KdN@YnO2
+Z40 VijY`lFEVI63z1SS6Z88<Z2
+R4
+Z41 w1719936064
+Z42 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/Controle.v
+Z43 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/Controle.v
+L0 3
+R24
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/Controle.v|
+R26
+Z45 n@controle
+Z46 !s108 1719939437.837000
+Z47 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/Controle.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter_fpga
+Z48 I5;MAA563eN<ZPnWa3P`f;1
+Z49 V]YR^DD^1UTd6SCN1I>LI@3
+R4
+Z50 w1719937834
+Z51 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_fpga.v
+Z52 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_fpga.v
+L0 5
+R24
+r1
+31
+Z53 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_fpga.v|
+R26
+Z54 n@counter_fpga
+Z55 !s100 f]mdhzj0Z0zi1=@a;c7FR0
+Z56 !s108 1719939438.774000
+Z57 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_fpga.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter_round
+Z58 !s100 N5ILXIgO?KNWV<S=_?V?I1
+Z59 IXmRAblYem0>ok@L33m13D0
+Z60 VQ:SjPY0V@^>HLGha5B6ia2
+R4
+Z61 w1719935899
+Z62 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_round.v
+Z63 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_round.v
+L0 5
+R24
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_round.v|
+R26
+Z65 n@counter_round
+Z66 !s108 1719939438.915000
+Z67 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_round.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter_time
+Z68 !s100 8@3EDnzFe`3<_<ae?fjbJ2
+Z69 I`3NnoOT>:AGXG3H_N]SVn0
+Z70 VRl?]]PGK16XRd0z<[?3fj1
+R4
+Z71 w1718980802
+Z72 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_time.v
+Z73 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_time.v
+L0 5
+R24
+r1
+31
+Z74 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_time.v|
+R26
+Z75 n@counter_time
+Z76 !s108 1719939438.009000
+Z77 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_time.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter_user
+Z78 !s100 _MaUD@;RzAiWfk89I`HJ_2
+Z79 I9XU<L26BlQ>]79e2H]C_F2
+Z80 VScS_;KYdV@0b5SAHk9HB_3
+R4
+Z81 w1719178355
+Z82 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_user.v
+Z83 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_user.v
+L0 6
+R24
+r1
+31
+Z84 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_user.v|
+R26
+Z85 n@counter_user
+Z86 !s108 1719939439.087000
+Z87 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/Counter_user.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDatapath
+Z88 !s100 2DQHFWCD9fE:1D>?H5POz2
+Z89 I4<nB4bhnn1aGajbVk67TD2
+Z90 VmZnkHYKGO[@5Tj0kT7D6U2
+R4
+Z91 w1719932208
+Z92 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/Datapath.v
+Z93 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/Datapath.v
+L0 3
+R24
+r1
+31
+Z94 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/Datapath.v|
+R26
+Z95 n@datapath
+Z96 !s108 1719939438.149000
+Z97 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/Datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdec7seg
+Z98 !s100 kdLH^<9oYmAgYFojA9Vgg3
+Z99 I;D:DK;JfUiYGP40^g4GRa3
+Z100 Vk6zFN4>fi[nAh8_5QRC330
+R4
+Z101 w1718393803
+Z102 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/dec7seg.v
+Z103 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/dec7seg.v
+L0 23
+R24
+r1
+31
+Z104 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/dec7seg.v|
+R26
+Z105 !s108 1719939439.228000
+Z106 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/dec7seg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_clock
+Z107 !s100 ?AH[^3RD]>;hz7V`8W?[62
+Z108 I^3ocW3T<fZ<XS3V:mcVV<1
+Z109 Vd@R0?kY:@OaEom[AZ<Bii0
+R4
+Z110 w1719937511
+Z111 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/FSM_clock.v
+Z112 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/FSM_clock.v
+L0 5
+R24
+r1
+31
+Z113 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/FSM_clock.v|
+R26
+Z114 n@f@s@m_clock
+Z115 !s108 1719939439.368000
+Z116 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/FSM_clock.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLogica
+Z117 !s100 :f:9zMEcNMFnIJffnN@5L3
+Z118 IO5B>KkP2QiR`f_jmc^07D2
+Z119 Vd61=BJ;D3^eQ5=]HDOgl21
+R4
+Z120 w1719579937
+Z121 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/Logica.v
+Z122 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/Logica.v
+L0 5
+R24
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/Logica.v|
+R26
+Z124 n@logica
+Z125 !s108 1719939439.540000
+Z126 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/Logica.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x1
+Z127 !s100 gNaa46LPEcNJOFD[Q`2[L1
+Z128 I3gQ=6j^L=Mc48=BCH]9gB2
+Z129 VF`X3C7T72NmODYi@C3Bbf2
+R4
+Z130 w1718977141
+Z131 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux2x1.v
+Z132 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/mux2x1.v
+L0 6
+R24
+r1
+31
+Z133 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux2x1.v|
+R26
+Z134 !s108 1719939439.696000
+Z135 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux2x1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4x1_1b
+Z136 !s100 7A<<fKXTEZhHhL^mDL5f[1
+Z137 IK8Soi@ZKhX[U0CUiG<bkm2
+Z138 VQoGh@7mzb^>hMYUmDKmBI1
+R4
+Z139 w1718969742
+Z140 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_1b.v
+Z141 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_1b.v
+L0 7
+R24
+r1
+31
+Z142 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_1b.v|
+R26
+Z143 !s108 1719939439.868000
+Z144 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_1b.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4x1_4b
+Z145 !s100 ANcLAfZFm_DU:]jOg6iKU2
+Z146 IP=zVM:AYlk<^2^M7ScH@33
+Z147 V^U_W;YKmE?4V4j<;NHXMz3
+R4
+Z148 w1718976369
+Z149 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_4b.v
+Z150 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_4b.v
+L0 7
+R24
+r1
+31
+Z151 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_4b.v|
+R26
+Z152 !s108 1719939440.009000
+Z153 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/mux4x1_4b.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vREG_fpga
+Z154 !s100 McLURLFSK84Cni7WCUl9j1
+Z155 I[=SYRO9@Mi9Q94h>YN`BX1
+Z156 VZ@^Wi^1g^F69La8cKQAAO3
+R4
+Z157 w1719170750
+Z158 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_fpga.v
+Z159 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_fpga.v
+L0 6
+R24
+r1
+31
+Z160 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_fpga.v|
+R26
+Z161 n@r@e@g_fpga
+Z162 !s108 1719939440.165000
+Z163 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_fpga.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vREG_setup
+Z164 INQ03AYDC99B_d_X903oMS2
+Z165 VZ:175S=[j1z<oEeH;5?F00
+R4
+Z166 w1719939430
+Z167 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_setup.v
+Z168 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_setup.v
+L0 5
+R24
+r1
+31
+Z169 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_setup.v|
+R26
+Z170 n@r@e@g_setup
+Z171 !s100 J[]@kDld0=EmiOj]m?=A@0
+Z172 !s108 1719939440.306000
+Z173 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_setup.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vREG_user
+Z174 !s100 NLUBhoKibb3DWQ]cG4BX10
+Z175 I]1]DQVzU4POgUjTmgooYK1
+Z176 V:BIMeV`B:EAX=1ohTH7601
+R4
+Z177 w1719000566
+Z178 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_user.v
+Z179 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_user.v
+L0 5
+R24
+r1
+31
+Z180 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_user.v|
+R26
+Z181 n@r@e@g_user
+Z182 !s108 1719939440.478000
+Z183 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/REG_user.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSEQ1
+Z184 !s100 H^38VnFk]`MaW:cF_lF260
+Z185 IHOB=D_M;j20=W[L9@k0bN0
+Z186 V>HFkg=GAm9oNWfdYCO4cO2
+R4
+Z187 w1719578335
+Z188 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ1.v
+Z189 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ1.v
+L0 12
+R24
+r1
+31
+Z190 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ1.v|
+R26
+Z191 n@s@e@q1
+Z192 !s108 1719939440.634000
+Z193 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSEQ2
+Z194 !s100 42Yl86:S8@D^J9AOfYI;D0
+Z195 I<0OfSoPOFJOh=2m:bD8SX3
+Z196 VA1BmV]GDa>BFZDbG_Hg712
+R4
+Z197 w1719177145
+Z198 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ2.v
+Z199 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ2.v
+L0 12
+R24
+r1
+31
+Z200 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ2.v|
+R26
+Z201 n@s@e@q2
+Z202 !s108 1719939440.774000
+Z203 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSEQ3
+Z204 !s100 E_QLVG43j7:CNkRRh;7kC3
+Z205 IS;aoZmza]_8eHiRXf:ae03
+Z206 VFYQDH3z>:Z]?]cG13DX7A2
+R4
+Z207 w1719578445
+Z208 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ3.v
+Z209 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ3.v
+L0 12
+R24
+r1
+31
+Z210 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ3.v|
+R26
+Z211 n@s@e@q3
+Z212 !s108 1719939440.931000
+Z213 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ3.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSEQ4
+Z214 !s100 WlhhGm_jg@bOfXSnFL;[]3
+Z215 IFH]=QE7hDDo5382j@K2fP0
+Z216 V75eaHn5i_e^m[]59@mazO0
+R4
+Z217 w1719578592
+Z218 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ4.v
+Z219 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ4.v
+L0 12
+R24
+r1
+31
+Z220 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ4.v|
+R26
+Z221 n@s@e@q4
+!i10b 1
+!s85 0
+Z222 !s108 1719939441.071000
+Z223 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/SEQ4.v|
+!s101 -O0
+vtop
+Z224 !s100 mgVhWiLI?WM6@X4DK72Di2
+Z225 I9h5jA7K_3BAQgD9jVc9=>3
+Z226 Vn60BNC7Z`fV53Ia<`<m8n1
+R4
+Z227 w1719577015
+Z228 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/top.v
+Z229 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/top.v
+L0 4
+R24
+r1
+31
+Z230 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/top.v|
+R26
+Z231 !s108 1719939438.306000
+Z232 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop_tb
+Z233 !s100 f3?V^BiBCmIm;3@Kh1VRW2
+Z234 I1F0aEzh>ZTfAAA=aBzjmh2
+Z235 VN7^ihbmI9enFg9D=Qco243
+R4
+Z236 w1719936578
+Z237 8C:/Users/Jacare/Documents/HDL/Projeto Final/src/top_tb.v
+Z238 FC:/Users/Jacare/Documents/HDL/Projeto Final/src/top_tb.v
+L0 6
+R24
+r1
+31
+Z239 !s90 -reportprogress|300|-work|work|C:/Users/Jacare/Documents/HDL/Projeto Final/src/top_tb.v|
+R26
+Z240 !s108 1719939438.446000
+Z241 !s107 C:/Users/Jacare/Documents/HDL/Projeto Final/src/top_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
